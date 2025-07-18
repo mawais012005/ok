@@ -1,1 +1,9 @@
 # ok
+tensorflow==2.13.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
